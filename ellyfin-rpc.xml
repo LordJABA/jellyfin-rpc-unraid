@@ -8,7 +8,7 @@
     <Privileged>false</Privileged>
     <TemplateVersion>2</TemplateVersion>
 
-    <Icon>https://example.com/icon.png</Icon>
+    <Icon>https://raw.githubusercontent.com/LordJABA/jellyfin-rpc-unraid/refs/heads/main/ico.png</Icon>
 
     <Variable>
         <Name>TZ</Name>
